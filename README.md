@@ -5,6 +5,8 @@ Repository to store notebooks and data used to generate realistic text using a m
 
 Example data sets and models are included in this repository. For exploration of other more complex models used in this project please see `/text_gen/` on this page. *NOTE* This repo is a cleaned example version of the project, if you wish to view the full repo expect less documentation.
 
+Feel free to download your own copy, or submit a pull request.
+
 # Summary
 
 This project uses recurrent neural networks and text downloaded from reddit to produce langauge models. This project was intended as a fun practice of implimenting some theory, and as such the models trained are on relatively small data sets and for short periods of time.
