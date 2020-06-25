@@ -1,0 +1,2 @@
+id: #####ENTER YOUR ID HERE#####
+secret: #####ENTER YOUR SECRET CODE HERE#####
