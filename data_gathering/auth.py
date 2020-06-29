@@ -5,9 +5,9 @@ def login():
     NotLoggedIn = True
     while NotLoggedIn:
         try:
-            reddit = praw.Reddit(client_id='A9km-PBOjcEZIQ',
-                            client_secret='suoLBrusB7mma4j_44zPaoPQ1mA',
-                            user_agent='script:AITAscraper:v1.0.0 (by /u/AcquiredNightIn)')
+            reddit = praw.Reddit(client_id=#INSERT YOURS HERE,
+                            client_secret=#INSERT YOURS HERE,
+                            user_agent=#INSERT YOURS HERE)
             print("Logged in")
             NotLoggedIn = False
         except praw.errors.InvalidUserPass:
